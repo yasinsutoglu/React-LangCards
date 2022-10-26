@@ -1,4 +1,4 @@
-<h1 align="center">Employee List Assignment</h1>
+<h1 align="center">Language Cards</h1>
 
 <h3>Overview</h3>
 👨‍💻 In this project I mastered React skills. I used mainly REACT and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍click here to see page](https://employee-list-pro.netlify.app)
+[📍click here to see page]()
 
 <!-- ------------------------------------------------------ -->
 ````
@@ -30,10 +30,9 @@ SOLUTION
 │    ├── components
 │    │       ├── card
 │    │       │     ├── Card.jsx
-│    │       │     
-|    |       |     
-│    │       ├── container
-│    │             ├── Container.jsx
+│    │             ├── Header.jsx
+|    |             ├── Language.jsx
+│    │── assets      
 │    │       
 │    ├── helper
 │    │       └── data.js
@@ -77,7 +76,7 @@ SOLUTION
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/React-Employee-List'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/React-LangCards'>My Docs</a>
 <br><span>You should open vscode terminal and write "yarn or npm install" to make the project alive </span>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
